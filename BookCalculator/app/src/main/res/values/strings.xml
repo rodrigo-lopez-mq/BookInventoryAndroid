@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Proyecto Jesús</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="strmain">Number of Books in Inventory</string>
+
+    <string name="action_settings">Ajustes</string>
+
+    <string name="Donation">Donación</string>
+    <string name="Return">Devolución</string>
+    <string name="ShoptoCar">Apertura</string>
+    <string name="CartoShop">Cierre</string>
+    <string name="Settings">Ajustes</string>
+    <string name="Send">Send</string>
+
+    <string name="empty">___</string>
+    <string name="uno">1:</string>
+    <string name="dos">2:</string>
+    <string name="tres">3:</string>
+    <string name="cuatro">4:</string>
+    <string name="cinco">5:</string>
+    <string name="seis">6:</string>
+    <string name="M">M:</string>
+    <string name="P">P:</string>
+    <string name="nnn">300</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_donations">Donaciones</string>
+
+    <string name="g1">Grade 1 Books</string>
+    <string name="g2">Grade 2 Books</string>
+    <string name="g3">Grade 3 Books</string>
+    <string name="g4">Grade 4 Books</string>
+    <string name="g5">Grade 5 Books</string>
+    <string name="g6">Grade 6 Books</string>
+    <string name="gtm">Teacher Manual</string>
+    <string name="save">Save</string>
+    <string name="number">Total # of books</string>
+    <string name="value">Total value</string>
+    <string name="invoice">Invoice number</string>
+    <string name="gtp">Teacher Packages</string>
+
+    <string name="title_activity_return">Devolución</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_send">Inventario</string>
+
+
+    <string name="ss">Send via email</string>
+    <string name="send">Send</string>
+    <string name="cost">Cost per book: </string>
+    <string name="sendto">Send to:</string>
+    <string name="email">email address</string>
+    <string name="newpage">Clear all</string>
+
+    <string name="inventory">Inventario</string>
+    <string name="title_activity_apertura">Apertura</string>
+    <string name="title_activity_cierre">Cierre</string>
+
+
+
+
+</resources>
